@@ -1,0 +1,586 @@
+{
+  "metadata" : {
+    "browser_name" : "Safari",
+    "browser_version" : "18.4",
+    "data_type" : "history",
+    "export_time_usec" : 1742058386545369,
+    "schema_version" : 1
+  },
+  "history" : [
+    {
+      "url" : "https://www.apple.com/",
+      "time_usec" : 1742067903345461,
+      "visit_count" : 1,
+      "title" : "Apple"
+    },
+    {
+      "url" : "https://www.google.com/search?q=how+to+see+where+photos+are+sent+to+or+shared&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari",
+      "time_usec" : 1742070291812055,
+      "visit_count" : 1,
+      "title" : "Google Search",
+      "destination_url" : "https://www.google.com/search?q=how+to+see+where+photos+are+sent+to+or+shared&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari&sei=E-LVZ86vLY3kwN4Pr5rywQg",
+      "destination_time_usec" : 1742070292104665
+    },
+    {
+      "url" : "https://www.google.com/search?q=how+to+see+where+photos+are+sent+to+or+shared&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari&sei=E-LVZ86vLY3kwN4Pr5rywQg",
+      "time_usec" : 1742070292824025,
+      "visit_count" : 3,
+      "title" : "how to see where photos are sent to or shared - Google Search"
+    },
+    {
+      "url" : "https://discussions.apple.com/thread/253799225",
+      "time_usec" : 1742070314128004,
+      "visit_count" : 1,
+      "title" : "how can I tell who a photo has been sent … - Apple Community"
+    },
+    {
+      "url" : "https://discussions.apple.com/thread/253799225?sortBy=rank",
+      "time_usec" : 1742070314720768,
+      "visit_count" : 1,
+      "title" : "how can I tell who a photo has been sent … - Apple Community"
+    },
+    {
+      "url" : "https://www.google.com/search?q=how+to+know+how+many+times+a+photo+was+sent&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari",
+      "time_usec" : 1742073640962562,
+      "visit_count" : 3,
+      "title" : "how to know how many times a photo was sent - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=what+is+considered+a+shared+photo&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari#sbfbu=1&pi=what%20is%20considered%20a%20shared%20photo",
+      "time_usec" : 1742073686820082,
+      "visit_count" : 1,
+      "title" : "what is considered a shared photo - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=what+is+considered+a+shared+photo&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari",
+      "time_usec" : 1742073700870790,
+      "visit_count" : 4,
+      "title" : "what is considered a shared photo - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=does+google+photos+considered+shared+photos+&client=safari&sca_esv=b4f1a4e5dd378925&hl=en-us&ei=R-_VZ5uEMJq1wN4Px4HAuAc&oq=does+google+photos+considered+shared+photos+&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo&sclient=mobile-gws-wiz-serp#sbfbu=1&pi=does%20google%20photos%20considered%20shared%20photos",
+      "time_usec" : 1742073707830484,
+      "visit_count" : 2,
+      "title" : "does google photos considered shared photos - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=does+google+photos+considered+shared+photos+&client=safari&sca_esv=b4f1a4e5dd378925&hl=en-us&ei=R-_VZ5uEMJq1wN4Px4HAuAc&oq=does+google+photos+considered+shared+photos+&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo&sclient=mobile-gws-wiz-serp",
+      "time_usec" : 1742073730609859,
+      "visit_count" : 4,
+      "title" : "does google photos considered shared photos - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=i+have+a+shared+photo+that+i+don%27t+have&client=safari&sca_esv=b4f1a4e5dd378925&hl=en-us&ei=ZO_VZ4-mPK2-p84P8I--mQc&oq=i+have+a+shared+photo+that+i+dont%C2%A0&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIiNpIGhhdmUgYSBzaGFyZWQgcGhvdG8gdGhhdCBpIGRvbnTCoCoCCAEyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBRAhGKsCMgUQIRirAjIFEAAY7wUyCBAAGIAEGKIESNSxAVDvEFiBrAFwEHgBkAEAmAHdAaABhC2qAQY4LjM1LjG4AQHIAQD4AQGYAjugAtcuqAITwgIKEAAYsAMY1gQYR8ICAhApwgIKEAAYAxjqAhiPAcICChAuGAMY6gIYjwHCAgsQABiABBiRAhiKBcICCBAAGIAEGLEDwgIOEC4YgAQYsQMY0QMYxwHCAgsQABiABBixAxiDAcICBRAAGIAEwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICDhAAGIAEGLEDGIMBGIoFwgIREC4YgAQYxwEYmAUYmgUYrwHCAgUQLhiABMICCBAuGIAEGLEDwgIKEAAYgAQYQxiKBcICBBAAGAPCAgcQABiABBgKwgINEAAYgAQYsQMYQxiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgIQEC4YgAQYsQMY0QMYxwEYCsICCxAuGIAEGLEDGIoFwgIGEAAYFhgewgIIEAAYFhgKGB7CAgUQIRigAcICCxAAGIAEGIYDGIoFwgIFECEYnwWYAwfxBXXb1u3jhZa0iAYBkAYIkgcHMjMuMzMuM6AHhdcCsgcGNy4zMy4zuAfdLQ&sclient=mobile-gws-wiz-serp",
+      "time_usec" : 1742073731167128,
+      "visit_count" : 3,
+      "title" : "i have a shared photo that i don't have - Google Search"
+    },
+    {
+      "url" : "https://support.apple.com/en-us/118229",
+      "time_usec" : 1742073734539834,
+      "visit_count" : 1,
+      "title" : "How to use iCloud Shared Photo Library - Apple Support"
+    },
+    {
+      "url" : "https://www.google.com/search?q=find+data+for+pictures+being+sent&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari",
+      "time_usec" : 1742073949258741,
+      "visit_count" : 3,
+      "title" : "find data for pictures being sent - Google Search"
+    },
+    {
+      "url" : "https://jimpl.com/",
+      "time_usec" : 1742073978488776,
+      "visit_count" : 3,
+      "title" : "Online EXIF metadata viewer for photos (UPDATED) | Jimpl"
+    },
+    {
+      "url" : "https://adclick.g.doubleclick.net/aclk?sa=l&ai=Cg-vMe_DVZ8T5HaimuvQPppiqGO_hx9195861h8ET2tkeEAEg7r39EGDJhv-H8KPsEqAB5cLWogPIAQmoAwHIA8sEqgTKAU_Q11thO2pIucVSrcPlEuPEgVC3RqmFSyVqRKDxue-jsBf6pS7zn9vlRr-GhZ0xz2KyE6WxJVhLzzUn95eMd72MKN0a9JzNc5hZhRiNZcSKt0UnXbfKfOsDSk-gVFdaojemqPuA2liw6NwsIhJbLm7XLSyuTpvoPwyfKAQcIlbtyUoGfHWv4hj5-qbnhu0wK0kjPyGeyMTJyhbu0gCR9paeEJ6-dsedNlQlT5XRCrcqBNdoWiKdY5d_SfU09XQQtuvpLwcScjAmgQbABN2WzLvCBIgFjqPwoDigBi7YBgKAB4O9qV2oB9XJG6gHpr4bqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAeaBqgH89EbqAeW2BuoB6qbsQKoB-C9sQKoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwCgCK-EPrAIAtIIJgiAYRABGB8yAooCOguAQIDAgICAoKiAAki9_cE6WPeE4KWDjYwDsQmOtZXrLmIcHIAKAZgLAcgLAYAMAaoNAlVTyA0B6g0TCIKt-qWDjYwDFSiTjggdJowKA_ANA7gT5APYEw2CFAsaCWppbXBsLmNvbYgUAdAVAZgWAfgWAYAXAbIXAhgBuhcCOAGyGAkSAutoGC4iAQDQGAHoGAE&ae=2&num=1&cid=CAQSTgCjtLzMTcK8fQJO3-Ld7ZM-jDyFC6zBi1T3FjYAgkD6VjbPB-7Dd9NkGp212I68lJWGswTVs_y5JKwV-sFQHG5BEpLNiZvMuFqa0kEk6RgB&sig=AOD64_3TFJHyNRSULLglG3YruEZPGtaYbA&client=ca-pub-5595808001740123&rf=1&nb=8&nx=191&ny=570&mb=1&bg=!z8ylzIPNAAbGzMiM5sw7ADQBe5WfOGXJ1Pbps6_g0cV_Jx7dmgsbF-yXYRDSJnkxSqspo97krpASceE3TNPGZlMQtEDlAgAAABVSAAAABWgBB34AHRCOPuiGibXW3Yg_w-_iXJEX4aNradZGv-kPXGr-CgCaus3xJYREZMN4An_VD2j3GChP89IZpC26jzcIow6Gr4R6s07mxHofG9RkGHKvAtkSlOb-X3-GIf1ui_psAiAvOlTNKmg4-m9Iu6zhp1MjHn7BCU8s5bmZ4WN3c2A1q3V9zEfigIsbBfR_vS6WuMZhirKBjOPE16NT8vA2_cCCynfvQLsi1tIhE2LxbOLQjxHqmGZxklWfR0EN8ZkCFHoulcyHl_qgzCP3L-yRdezBSHhq4lxRheEJtBZmfpIDPfdw2sEC-EEUcyBPh0hUHnkFeSZr_B1Y8ZpM5uwpJpe2ioNurwud6iPlugPbHUN5shZkB80Z3nWpLbdV3RIGxBtY7m2w2yyx_YxoM-i4frWYQPP_uQnmBUgmMuBySrAY-aOpK5hlIGV1gZALdxE5udZHnLtjbntJ4XG6j4Zxx2VqQKBU3EB2Uo9jQYB_WgTJNjoHYfDK8HpH6wsJkHZyU5PvoSYZPjKg5QdhDPG7f-0tZGdcn6rbg0orqm72qLXzBF6J-91VfFRHfVj7Ppowd6A3jB0yeG4rE5l03NCVMa6sAfagxRJx1t5Lw7wsrItb7zz0rTrGS_TlSYIf9dD8-TGnJwhR9Ik4la_XSlXfPVDZR_IGTysZd80ZQy3CC3boIA3oNxP_est1UBZPWWn_zaPlb2RVPdUTcSbOpt94ybaF80zN8LsrLHHs6Wh09qIihJBzx2x0-bocxWSh9P6dzPN5-ErfQ8UkabfNgrNVPapqC6HSj_AT94f6noSWg9YAH92dDQKxzbzjX1NOrKu6KhYadkeA6E35uBorbAXAerOyz0yXGkjGl28gx4gqbwYDUGws6-1C29Qmdc2D-0nPTwL0Wgh17vCmUEhfzfIIaRnInsCrJYkxNyoCbqD-Xxsu3JFrEDgHvckOQc2V5EUlcPzPBb4&nb=8&dct=1&suid=38006860314&adurl=https://www.mintmobile.com/%3Futm_source%3Dgdn%26utm_medium%3Ddisplay%26utm_campaign%3DGDN_Prospect_CV_BAU%26utm_content%3DAll_CIA_Conquesting_A18_US%26gad_source%3D5",
+      "time_usec" : 1742074061127761,
+      "visit_count" : 1,
+      "destination_url" : "https://www.mintmobile.com/?utm_source=gdn&utm_medium=display&utm_campaign=GDN_Prospect_CV_BAU&utm_content=All_CIA_Conquesting_A18_US&gad_source=5",
+      "destination_time_usec" : 1742074061128357
+    },
+    {
+      "url" : "https://www.mintmobile.com/?utm_source=gdn&utm_medium=display&utm_campaign=GDN_Prospect_CV_BAU&utm_content=All_CIA_Conquesting_A18_US&gad_source=5",
+      "time_usec" : 1742074062449283,
+      "visit_count" : 3,
+      "title" : "Mint Mobile | Wireless that's Easy, Online, $15 Bucks a Month"
+    },
+    {
+      "url" : "https://jimpl.com/#google_vignette",
+      "time_usec" : 1742074064387164,
+      "visit_count" : 2,
+      "title" : "Online EXIF metadata viewer for photos (UPDATED) | Jimpl"
+    },
+    {
+      "url" : "https://jimpl.com/remove-exif/",
+      "time_usec" : 1742074067383885,
+      "visit_count" : 1,
+      "title" : "Remove EXIF metadata from photos and images (UPDATED) | Jimpl"
+    },
+    {
+      "url" : "https://jimpl.com/results/XRhKHR92Hgnwppz72DdHiNbY?target=remove-exif-redirect",
+      "time_usec" : 1742074096920276,
+      "visit_count" : 1,
+      "title" : "View or remove EXIF metadata from the photo | Jimpl"
+    },
+    {
+      "url" : "https://www.google.com/search?q=icloud+login&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari",
+      "time_usec" : 1742074982757798,
+      "visit_count" : 3,
+      "title" : "icloud login - Google Search"
+    },
+    {
+      "url" : "https://www.icloud.com/",
+      "time_usec" : 1742075083839885,
+      "visit_count" : 3,
+      "title" : "iCloud"
+    },
+    {
+      "url" : "https://www.icloud.com/storage/",
+      "time_usec" : 1742075178249113,
+      "visit_count" : 2,
+      "title" : "iCloud"
+    },
+    {
+      "url" : "https://www.google.com/search?q=microsoft+login&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari",
+      "time_usec" : 1742055916332681,
+      "visit_count" : 3,
+      "title" : "microsoft login - Google Search"
+    },
+    {
+      "url" : "https://account.microsoft.com/account/Account",
+      "time_usec" : 1742055917335892,
+      "visit_count" : 1,
+      "title" : "Microsoft account | Sign In or Create Your Account Today – Microsoft"
+    },
+    {
+      "url" : "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=service%3A%3Aaccount.microsoft.com%3A%3AMBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&client-request-id=b922dc29-52c1-43b9-93d0-bf17fd9f715d&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&x-client-OS=Windows+Server+2019+Datacenter&prompt=login&client_info=1&state=H4sIAAAAAAAEAAXBN6KCMAAA0Lu4ZqB8aYMDTcCSUAQJG0ECAlKke_r_3mHiqkgnIFx2_Q9iGWkqXxmhs5pWyuKrbJgtUwNe3abIRSNefa50hWezLOzzO8--qoTVlUnanvxCXCXO0oyjQ4akfYj-rmVdfIH7G5q1FdhFCpGnTGoe1sn3mEybKyb5hiR3EKMzO6HWvz5vQHlkJeE-tEU1azs6f9-xqJh8yfajNZFtjYOfDXgSxGS4CPOoQkR3KnM0_MT4D8fWyzyirXzZQNM3hnbpwIoRBnjYPYsqrdf5BhNnWe8Xu3321xdVBe_Cwa0B_Py1YCfOS8bZnSxAUGiqcXOHYzsZPUtsvXv3bSNLchLc7tHykax8lXoC0o5PaZlWDTejOr3z-VhI5-J0OvwDKw0cAVoBAAA&msaoauth2=true&lc=1033",
+      "time_usec" : 1742055926012282,
+      "visit_count" : 5,
+      "title" : "Sign in to your account"
+    },
+    {
+      "url" : "https://login.live.com/oauth20_authorize.srf?client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&scope=service%3a%3aaccount.microsoft.com%3a%3aMBI_SSL+openid+profile+offline_access&redirect_uri=https%3a%2f%2faccount.microsoft.com%2fauth%2fcomplete-signin-oauth&response_type=code&state=H4sIAAAAAAAEAAXBN6KCMAAA0Lu4ZqB8aYMDTcCSUAQJG0ECAlKke_r_3mHiqkgnIFx2_Q9iGWkqXxmhs5pWyuKrbJgtUwNe3abIRSNefa50hWezLOzzO8--qoTVlUnanvxCXCXO0oyjQ4akfYj-rmVdfIH7G5q1FdhFCpGnTGoe1sn3mEybKyb5hiR3EKMzO6HWvz5vQHlkJeE-tEU1azs6f9-xqJh8yfajNZFtjYOfDXgSxGS4CPOoQkR3KnM0_MT4D8fWyzyirXzZQNM3hnbpwIoRBnjYPYsqrdf5BhNnWe8Xu3321xdVBe_Cwa0B_Py1YCfOS8bZnSxAUGiqcXOHYzsZPUtsvXv3bSNLchLc7tHykax8lXoC0o5PaZlWDTejOr3z-VhI5-J0OvwDKw0cAVoBAAA&prompt=login&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&uaid=b922dc2952c143b993d0bf17fd9f715d&msproxy=1&issuer=mso&tenant=common&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABVrSpeuWamRam2jAF1XRQEWt4gc9viXu82DdXBGXb3rnyfgnAHuzUFH7XDSNBFhpGcpN-pTgvkxl0yTmPODLUMs1l8sFRLl8YuRTg1jKpjW_uEHQlHBa8Lrhmq_HuOrAdIhPnS_9SEm8GPhSaW90r0NkFI5Xc6UpSOTFdU8hy8QXec7voA_ff8LkAPYG30zuWmnHtVvOUuVyp70tSzaqEjVbnsRsTCa5OZUaSXthREVSAA&jshs=0&idp_hint=github.com",
+      "time_usec" : 1742055928663412,
+      "visit_count" : 1,
+      "destination_url" : "https://github.com/login?allow_signup=false&client_id=e37ffdec11c0245cb2e0&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3De37ffdec11c0245cb2e0%26redirect_uri%3Dhttps%253A%252F%252Flogin.live.com%252FHandleGithubResponse.srf%26response_type%3Dcode%26scope%3Dread%253Auser%2B%2Buser%253Aemail%26state%3D5F249B8CC47A4158",
+      "destination_time_usec" : 1742055928663684
+    },
+    {
+      "url" : "https://github.com/login?allow_signup=false&client_id=e37ffdec11c0245cb2e0&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3De37ffdec11c0245cb2e0%26redirect_uri%3Dhttps%253A%252F%252Flogin.live.com%252FHandleGithubResponse.srf%26response_type%3Dcode%26scope%3Dread%253Auser%2B%2Buser%253Aemail%26state%3D5F249B8CC47A4158",
+      "time_usec" : 1742055928663684,
+      "visit_count" : 1,
+      "title" : "Sign in to GitHub · GitHub",
+      "source_url" : "https://login.live.com/oauth20_authorize.srf?client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&scope=service%3a%3aaccount.microsoft.com%3a%3aMBI_SSL+openid+profile+offline_access&redirect_uri=https%3a%2f%2faccount.microsoft.com%2fauth%2fcomplete-signin-oauth&response_type=code&state=H4sIAAAAAAAEAAXBN6KCMAAA0Lu4ZqB8aYMDTcCSUAQJG0ECAlKke_r_3mHiqkgnIFx2_Q9iGWkqXxmhs5pWyuKrbJgtUwNe3abIRSNefa50hWezLOzzO8--qoTVlUnanvxCXCXO0oyjQ4akfYj-rmVdfIH7G5q1FdhFCpGnTGoe1sn3mEybKyb5hiR3EKMzO6HWvz5vQHlkJeE-tEU1azs6f9-xqJh8yfajNZFtjYOfDXgSxGS4CPOoQkR3KnM0_MT4D8fWyzyirXzZQNM3hnbpwIoRBnjYPYsqrdf5BhNnWe8Xu3321xdVBe_Cwa0B_Py1YCfOS8bZnSxAUGiqcXOHYzsZPUtsvXv3bSNLchLc7tHykax8lXoC0o5PaZlWDTejOr3z-VhI5-J0OvwDKw0cAVoBAAA&prompt=login&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&uaid=b922dc2952c143b993d0bf17fd9f715d&msproxy=1&issuer=mso&tenant=common&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABVrSpeuWamRam2jAF1XRQEWt4gc9viXu82DdXBGXb3rnyfgnAHuzUFH7XDSNBFhpGcpN-pTgvkxl0yTmPODLUMs1l8sFRLl8YuRTg1jKpjW_uEHQlHBa8Lrhmq_HuOrAdIhPnS_9SEm8GPhSaW90r0NkFI5Xc6UpSOTFdU8hy8QXec7voA_ff8LkAPYG30zuWmnHtVvOUuVyp70tSzaqEjVbnsRsTCa5OZUaSXthREVSAA&jshs=0&idp_hint=github.com",
+      "source_time_usec" : 1742055928663412
+    },
+    {
+      "url" : "https://github.com/login",
+      "time_usec" : 1742056010662208,
+      "visit_count" : 6,
+      "title" : "Sign in to GitHub · GitHub"
+    },
+    {
+      "url" : "https://github.com/session",
+      "time_usec" : 1742056073636801,
+      "visit_count" : 8,
+      "title" : "Sign in to GitHub · GitHub",
+      "latest_visit_was_http_get" : false
+    },
+    {
+      "url" : "https://googleads.g.doubleclick.net/aclk?sa=l&ai=C1UYcbk7WZ8nkAuWfuvQP3af3kA2QhbjierbP4IaKE8CNtwEQASDuvf0QYMmG_4fwo-wSoAGa4t_IA8gBAqgDAcgDyQSqBNkBT9D3hk3iqQ7UZ0kfNjjNYdVWm-NI3kWYkWzjCXUWijFqLWZUADXjsyfSKdU6zj6lOv9VWFs8vgeAnd94u-9C23Ej6AyRx1vmBST1gz3xqnb0wr8Lh8Lnn0ATNPA5vwYkr9fE0stp7OvMRnzWUBBCOu8BVS3mm_R57Hefbl5sNdZOyAa6T40BizVK_Ze35AUJUNhC38i0gn29WbfcvzgZOl7_nBFkHVMagCrFTtvYXjOi7q7Zh1SDZeMRPcWg7_eCsDGp_lmH9_Lx2fAGcPtF-yy9grKNY97QV8AE49v6ndQDiAWu0N6SBqAGAtgGAoAH_9LYiAGoB9XJG6gHpr4bqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAeaBqgH89EbqAeW2BuoB6qbsQKoB-C9sQKoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwGgCK-EPrAIAtIIJgiAYRABGB8yAooCOguAQIDAgICAoKiAAki9_cE6WKm3-fHcjYwDsQnOAfJGzP_VLIAKAZgLAcgLAaoNAlVTyA0B6g0TCKiykfLcjYwDFeWPjggd3dMd0vANA9gTDIIUCxoJamltcGwuY29t0BUBmBYB-BYBgBcBshcCGAG6FwI4AbIYCRICpmYYAiIBANAYAegYAQ&ae=2&gclid=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE&num=1&cid=CAQSTwCjtLzMQPAesOUzOFIdrpGTw8LhVMSYb8ODsRDtMvfJpz-Q4eiWsCPnPMh9cSa8QHdSUplY9G-tq6xIzO-7R29aoi-lKdaLtmuQw5lrGxMYAQ&sig=AOD64_1D9H3Gdl0xA4QO73fFqF8GLxl6cw&client=ca-pub-5595808001740123&rf=2&nb=2&nx=237&ny=281&mb=1&bg=!enmleTbNAAbGzMiM5sw7ADQBe5WfOKE582qU5_oBbQFErdC-zCeSh5e_Kqhuzg4efQVSJtV_S0Fhab7CC3h0KaF53KxQAgAAAB1SAAAABGgBB34AIRz9AVajUQW0UBOvNKg-vhSrOd4uuKm2seiiRfbQ00pZawoAQQH2WQg0cB1BDtN2F71b036GGi3RXTe678lmbMHq_gWagGfiJpjbuzpu7B75oNcopjy5s5Dc-C1_XKducw67y3mwmQID0CxkOECQRzbpl3MewjRQUq08HUugefPD_eL2XPLRZ0Odyaham9fQTsomEA26kq7FGqHcq4wTKYvTUKvvl9MdjbFh5V8my6d5KOwmEXyJVSfD6yn_dMkKAqMkL3M2SNhjUtjIupPR3k8-dTIpd1pLstpgnm_lPOeG5pX5hA9T41qDzxIyCSA0o-cEHK7zhFmac-DYKwjZfQrOANcZgZBeLdiJqpbM-A4dd9zCuCFYj68vyHkwxvzEPLFbNnGk7N0czSEoNPsnFgYSBnhzthuasjdbaNDXJAEczNhIKw9B8xz5mJaVu3u7l7BqppuwA6ouZ31WE5n7PqEUXgV5-qqHuXG7yEmBcj4qsdj_5MTO7tD8arn-17f5E4Gq5rLJ9aP-gOYb4G67BWf9MJRUByGQBOgMSm-gXBenDhHT-yzBWvJGqDUxC7lNrPFrTwxf2dUUlea2RuQqUWN9OCY4DvDRfN3tEK26BHhTDXpWlKDgfahpvP34FvUdAP_ia_HGv0k08zue3vjgun8vh09kmq8-oJTQ966UqyG0LsS2v7qStZt9yHaR9T-kPu8tnqMEuWfexs21f8oCo4yjdw7vLWoWr-_D8TLj6evRT_phHSjfi1XiUYx6m2JVOBtgpSAwREcwpJlbmSUCVSBCflLojaWWpzd9lTxefhrNq6rp8Mn4Y1TPSpo&nm=1&dct=1&suid=37988910966&adurl=https://tracking.truthfinder.com/%3Fa%3D871%26oc%3D27%26c%3D404%26s1%3D1649911854%26s2%3D125690621411%26s3%3D719967304771%26s4%3D%7Bgclid%7D%26s5%3Djimpl.com:m%26subtheme%3Darrest%26utm_id%3D1649911854%26utm_adgroup%3D125690621411%26utm_content%3D719967304771%26utm_user%3D%7Bgclid%7D%26utm_term%3Djimpl.com:m%26gad_source%3D5",
+      "time_usec" : 1742056112650713,
+      "visit_count" : 1,
+      "destination_url" : "https://www.truthfinder.com/p/home/?utm_source=GOOGDIS&traffic[source]=GOOGDIS&utm_medium=media_display&traffic[medium]=media_display&utm_campaign=1649911854&traffic[campaign]=125690621411:1649911854&utm_term=719967304771&traffic[term]=719967304771&utm_content=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE&traffic[content]=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE&s1=1649911854&s2=125690621411&s3=719967304771&s4=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE&s5=jimpl.com%3am&traffic[funnel]=bg&traffic[sub_id]=1649911854&traffic[s2]=125690621411&traffic[placement]=jimpl.com%3am&ck_rsid=3542146453&subtheme=arrest&utm_id=1649911854&utm_adgroup=125690621411&utm_content=719967304771&utm_user=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE&utm_term=jimpl.com%3am&gad_source=5&gclid=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE",
+      "destination_time_usec" : 1742056112651095
+    },
+    {
+      "url" : "https://www.truthfinder.com/p/home/?utm_source=GOOGDIS&traffic[source]=GOOGDIS&utm_medium=media_display&traffic[medium]=media_display&utm_campaign=1649911854&traffic[campaign]=125690621411:1649911854&utm_term=719967304771&traffic[term]=719967304771&utm_content=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE&traffic[content]=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE&s1=1649911854&s2=125690621411&s3=719967304771&s4=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE&s5=jimpl.com%3am&traffic[funnel]=bg&traffic[sub_id]=1649911854&traffic[s2]=125690621411&traffic[placement]=jimpl.com%3am&ck_rsid=3542146453&subtheme=arrest&utm_id=1649911854&utm_adgroup=125690621411&utm_content=719967304771&utm_user=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE&utm_term=jimpl.com%3am&gad_source=5&gclid=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE",
+      "time_usec" : 1742056112651095,
+      "visit_count" : 1,
+      "title" : "The Results May Shock You!",
+      "source_url" : "https://googleads.g.doubleclick.net/aclk?sa=l&ai=C1UYcbk7WZ8nkAuWfuvQP3af3kA2QhbjierbP4IaKE8CNtwEQASDuvf0QYMmG_4fwo-wSoAGa4t_IA8gBAqgDAcgDyQSqBNkBT9D3hk3iqQ7UZ0kfNjjNYdVWm-NI3kWYkWzjCXUWijFqLWZUADXjsyfSKdU6zj6lOv9VWFs8vgeAnd94u-9C23Ej6AyRx1vmBST1gz3xqnb0wr8Lh8Lnn0ATNPA5vwYkr9fE0stp7OvMRnzWUBBCOu8BVS3mm_R57Hefbl5sNdZOyAa6T40BizVK_Ze35AUJUNhC38i0gn29WbfcvzgZOl7_nBFkHVMagCrFTtvYXjOi7q7Zh1SDZeMRPcWg7_eCsDGp_lmH9_Lx2fAGcPtF-yy9grKNY97QV8AE49v6ndQDiAWu0N6SBqAGAtgGAoAH_9LYiAGoB9XJG6gHpr4bqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAeaBqgH89EbqAeW2BuoB6qbsQKoB-C9sQKoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwGgCK-EPrAIAtIIJgiAYRABGB8yAooCOguAQIDAgICAoKiAAki9_cE6WKm3-fHcjYwDsQnOAfJGzP_VLIAKAZgLAcgLAaoNAlVTyA0B6g0TCKiykfLcjYwDFeWPjggd3dMd0vANA9gTDIIUCxoJamltcGwuY29t0BUBmBYB-BYBgBcBshcCGAG6FwI4AbIYCRICpmYYAiIBANAYAegYAQ&ae=2&gclid=EAIaIQobChMIydP68dyNjAMV5Y-OCB3d0x3SEAEYASAAEgIOz_D_BwE&num=1&cid=CAQSTwCjtLzMQPAesOUzOFIdrpGTw8LhVMSYb8ODsRDtMvfJpz-Q4eiWsCPnPMh9cSa8QHdSUplY9G-tq6xIzO-7R29aoi-lKdaLtmuQw5lrGxMYAQ&sig=AOD64_1D9H3Gdl0xA4QO73fFqF8GLxl6cw&client=ca-pub-5595808001740123&rf=2&nb=2&nx=237&ny=281&mb=1&bg=!enmleTbNAAbGzMiM5sw7ADQBe5WfOKE582qU5_oBbQFErdC-zCeSh5e_Kqhuzg4efQVSJtV_S0Fhab7CC3h0KaF53KxQAgAAAB1SAAAABGgBB34AIRz9AVajUQW0UBOvNKg-vhSrOd4uuKm2seiiRfbQ00pZawoAQQH2WQg0cB1BDtN2F71b036GGi3RXTe678lmbMHq_gWagGfiJpjbuzpu7B75oNcopjy5s5Dc-C1_XKducw67y3mwmQID0CxkOECQRzbpl3MewjRQUq08HUugefPD_eL2XPLRZ0Odyaham9fQTsomEA26kq7FGqHcq4wTKYvTUKvvl9MdjbFh5V8my6d5KOwmEXyJVSfD6yn_dMkKAqMkL3M2SNhjUtjIupPR3k8-dTIpd1pLstpgnm_lPOeG5pX5hA9T41qDzxIyCSA0o-cEHK7zhFmac-DYKwjZfQrOANcZgZBeLdiJqpbM-A4dd9zCuCFYj68vyHkwxvzEPLFbNnGk7N0czSEoNPsnFgYSBnhzthuasjdbaNDXJAEczNhIKw9B8xz5mJaVu3u7l7BqppuwA6ouZ31WE5n7PqEUXgV5-qqHuXG7yEmBcj4qsdj_5MTO7tD8arn-17f5E4Gq5rLJ9aP-gOYb4G67BWf9MJRUByGQBOgMSm-gXBenDhHT-yzBWvJGqDUxC7lNrPFrTwxf2dUUlea2RuQqUWN9OCY4DvDRfN3tEK26BHhTDXpWlKDgfahpvP34FvUdAP_ia_HGv0k08zue3vjgun8vh09kmq8-oJTQ966UqyG0LsS2v7qStZt9yHaR9T-kPu8tnqMEuWfexs21f8oCo4yjdw7vLWoWr-_D8TLj6evRT_phHSjfi1XiUYx6m2JVOBtgpSAwREcwpJlbmSUCVSBCflLojaWWpzd9lTxefhrNq6rp8Mn4Y1TPSpo&nm=1&dct=1&suid=37988910966&adurl=https://tracking.truthfinder.com/%3Fa%3D871%26oc%3D27%26c%3D404%26s1%3D1649911854%26s2%3D125690621411%26s3%3D719967304771%26s4%3D%7Bgclid%7D%26s5%3Djimpl.com:m%26subtheme%3Darrest%26utm_id%3D1649911854%26utm_adgroup%3D125690621411%26utm_content%3D719967304771%26utm_user%3D%7Bgclid%7D%26utm_term%3Djimpl.com:m%26gad_source%3D5",
+      "source_time_usec" : 1742056112650713
+    },
+    {
+      "url" : "https://yahoo.com/",
+      "time_usec" : 1742056188927518,
+      "visit_count" : 1,
+      "destination_url" : "https://www.yahoo.com/",
+      "destination_time_usec" : 1742056188927670
+    },
+    {
+      "url" : "https://www.yahoo.com/",
+      "time_usec" : 1742056188927670,
+      "visit_count" : 1,
+      "title" : "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
+      "source_url" : "https://yahoo.com/",
+      "source_time_usec" : 1742056188927518
+    },
+    {
+      "url" : "https://login.yahoo.com/?.lang=en-US&src=homepage&.done=https%3A%2F%2Fwww.yahoo.com%2F&pspid=1197228339&activity=ybar-signin",
+      "time_usec" : 1742056194360910,
+      "visit_count" : 1,
+      "title" : "Yahoo"
+    },
+    {
+      "url" : "https://accounts.google.com/o/oauth2/v2/auth?client_id=860033281504.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Flogin.yahoo.com%2Faccount%2Fchallenge%2Ftpa%2Fredirect&scope=openid%20email%20profile&access_type=online&prompt=select_account&state=acrumb%3DPW7hwASE%7Csrc%3Dhomepage%7Cpspid%3D1197228339%7Cactivity%3Dybar-signin%7CsessionIndex%3DQQ--%7Cdisplay%3Dnarrow%7CauthMechanism%3Dprimary%7Clang%3Den-US",
+      "time_usec" : 1742056197140168,
+      "visit_count" : 2,
+      "title" : "Sign in - Google Accounts"
+    },
+    {
+      "url" : "https://accounts.google.com/o/oauth2/v2/auth?client_id=860033281504.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Flogin.yahoo.com%2Faccount%2Fchallenge%2Ftpa%2Fredirect&scope=openid%20email%20profile&access_type=online&prompt=select_account&state=acrumb%3DPW7hwASE%7Csrc%3Dhomepage%7Cpspid%3D1197228339%7Cactivity%3Dybar-signin%7CsessionIndex%3DQQ--%7Cdisplay%3Dnarrow%7CauthMechanism%3Dprimary%7Clang%3Den-US&service=lso&o2v=2&ddm=1",
+      "time_usec" : 1742056197500057,
+      "visit_count" : 1,
+      "title" : "Sign in - Google Accounts"
+    },
+    {
+      "url" : "https://accounts.google.com/o/oauth2/v2/auth/oauthchooseaccount?client_id=860033281504.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Flogin.yahoo.com%2Faccount%2Fchallenge%2Ftpa%2Fredirect&scope=openid%20email%20profile&access_type=online&prompt=select_account&state=acrumb%3DPW7hwASE%7Csrc%3Dhomepage%7Cpspid%3D1197228339%7Cactivity%3Dybar-signin%7CsessionIndex%3DQQ--%7Cdisplay%3Dnarrow%7CauthMechanism%3Dprimary%7Clang%3Den-US&service=lso&o2v=2&ddm=1&flowName=GeneralOAuthFlow",
+      "time_usec" : 1742056197502246,
+      "visit_count" : 1,
+      "title" : "Sign in - Google Accounts"
+    },
+    {
+      "url" : "https://accounts.google.com/signin/oauth/consent?authuser=0&part=AJi8hANqiL0PBgvGwqdf-Dg-G6qDp89SHWNwcZE2EjSA5mIc2bLVe8OWAC6rhcxJATot3QkA4Us_YzNou2NTjwYk2hBF-avTOGdyHVMKnPzZnHkYlFBpP2qtUhy3b7cogcoXa8fejCpT43djS5yNrQ_h7Zatms1Ed0L5nEGy3erkiWemyYcs42DeNYqe2h5uRICk7cfcpo1W5NSZWX8JFU11eYrtUWBoQt_aCqyZ3g0iJ0WHZwVRkRdz6CHuNaiCi7DX--g3l8mPKhPj1xA_8Xq3iv7oGhFrNEUnqR1l4UH9E7r8xp5pWTLP7KNn5GypKpI_ncEVQ4niqpEw0KD2--PJa3wvNSKX_QnUazSWQritqNUJshrexpRhzAP-i_3ZFakDkICwDljpDBVwehgzTozxaztK2iw_Irlez_Bddz1YS4IA_eryUOo&flowName=GeneralOAuthFlow&as=S-1408529425%3A1742098125645802&client_id=860033281504.apps.googleusercontent.com&pli=1&rapt=AEjHL4MTV88KqWFVCsm0zTXHaWrKqV0QBwcZUr2XwI97u1Vwat3g5hxo5Rs88A0mioDD5blvIfo-l4sfFpdzJeX7jQNvkktehw#",
+      "time_usec" : 1742056198973744,
+      "visit_count" : 1,
+      "destination_url" : "https://accounts.google.com/signin/oauth/id?authuser=0&part=AJi8hAPrC9dnNRPWcwJoFJyW_YP9hFR-U4Tub4ULrJ1_-Kf4cra1BlErVsuZSZvUnoZKT88cMJZUjsjjzKrcvT1LSWMxmpkkmoT9vFaEppCl3uXqigTWSG8MmukoA4CBv9dEWWsjSmzqSwf8F0NsRX9KG7EDId4K8vB5vWXStLQc6v0LnP5Hw8SkrcFHxXgCt8LKP_Ag-ViEHh10xF9BCGuUt5uUcOeZzz_Vi9F9IJWWCbIW6Ocdan8cRnwHlbrHH-3lKQjM0JUVH4O4h30YlaGfhShrrEisjTrg5fjt9uEFXHpYssCJsszEYNHpGahxx4U0Vw9hgOuUp--wX23eEs3ZRKs_ariWboTiHxIrQ0WpE1xvh3VoONBrm3h5NNVRkw87WxmCkyXWFuPWLCrzgLkAlPMmfG4nFhZXmZ-BbgzgD7kgPtr74CXY56LQxdgvPBC-gdMJF4KO-7akyF1Uj6bcPjghkx0QYDj4V_BN1NF9t3jKXy2RmCdTMDPXfUUrbTDJkElGTHMFhaj7PgxmhxKCk2CWOS0SSLT7mYldkEjpeZUeQDfQAUoIwV_pekSwORuyfOyB1i7TTFMSLWdA_-zDxytD0WOl6jgn2uDpp_Dcj2RwCibiVtZyJY9_U2qzqXNwiVp75q1UDgORbP1TR2g6627nA4f5mg1WK-ysu-VU7LlSHOv70NRoO-8TuC1bYzsKDSbspLnN1DK0Gyok-mjQ9ZAqzBzecwJxzf2R_owkLvxuYOqGG-vlikDAbBBq-1shq-o2Y3IsBaqngtFhpRg4efZaJ-z6Z236izh5o6URRh2vxOLgPgw&flowName=GeneralOAuthFlow&as=S-1408529425%3A1742098125645802&client_id=860033281504.apps.googleusercontent.com&rapt=AEjHL4MTV88KqWFVCsm0zTXHaWrKqV0QBwcZUr2XwI97u1Vwat3g5hxo5Rs88A0mioDD5blvIfo-l4sfFpdzJeX7jQNvkktehw#",
+      "destination_time_usec" : 1742056198974063
+    },
+    {
+      "url" : "https://accounts.google.com/signin/oauth/id?authuser=0&part=AJi8hAPrC9dnNRPWcwJoFJyW_YP9hFR-U4Tub4ULrJ1_-Kf4cra1BlErVsuZSZvUnoZKT88cMJZUjsjjzKrcvT1LSWMxmpkkmoT9vFaEppCl3uXqigTWSG8MmukoA4CBv9dEWWsjSmzqSwf8F0NsRX9KG7EDId4K8vB5vWXStLQc6v0LnP5Hw8SkrcFHxXgCt8LKP_Ag-ViEHh10xF9BCGuUt5uUcOeZzz_Vi9F9IJWWCbIW6Ocdan8cRnwHlbrHH-3lKQjM0JUVH4O4h30YlaGfhShrrEisjTrg5fjt9uEFXHpYssCJsszEYNHpGahxx4U0Vw9hgOuUp--wX23eEs3ZRKs_ariWboTiHxIrQ0WpE1xvh3VoONBrm3h5NNVRkw87WxmCkyXWFuPWLCrzgLkAlPMmfG4nFhZXmZ-BbgzgD7kgPtr74CXY56LQxdgvPBC-gdMJF4KO-7akyF1Uj6bcPjghkx0QYDj4V_BN1NF9t3jKXy2RmCdTMDPXfUUrbTDJkElGTHMFhaj7PgxmhxKCk2CWOS0SSLT7mYldkEjpeZUeQDfQAUoIwV_pekSwORuyfOyB1i7TTFMSLWdA_-zDxytD0WOl6jgn2uDpp_Dcj2RwCibiVtZyJY9_U2qzqXNwiVp75q1UDgORbP1TR2g6627nA4f5mg1WK-ysu-VU7LlSHOv70NRoO-8TuC1bYzsKDSbspLnN1DK0Gyok-mjQ9ZAqzBzecwJxzf2R_owkLvxuYOqGG-vlikDAbBBq-1shq-o2Y3IsBaqngtFhpRg4efZaJ-z6Z236izh5o6URRh2vxOLgPgw&flowName=GeneralOAuthFlow&as=S-1408529425%3A1742098125645802&client_id=860033281504.apps.googleusercontent.com&rapt=AEjHL4MTV88KqWFVCsm0zTXHaWrKqV0QBwcZUr2XwI97u1Vwat3g5hxo5Rs88A0mioDD5blvIfo-l4sfFpdzJeX7jQNvkktehw#",
+      "time_usec" : 1742056199552949,
+      "visit_count" : 2,
+      "title" : "Sign in - Google Accounts"
+    },
+    {
+      "url" : "https://login.yahoo.com/account/challenge/create?scope=email%20profile%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent&acrumb=PW7hwASE&src=homepage&pspid=1197228339&activity=ybar-signin&display=narrow&authMechanism=primary&lang=en-US&done=https%3A%2F%2Fwww.yahoo.com%2F&sessionIndex=QQ--",
+      "time_usec" : 1742056201745800,
+      "visit_count" : 1,
+      "title" : "Yahoo"
+    },
+    {
+      "url" : "https://login.yahoo.com/?display=narrow&lang=en-US&src=homepage&activity=ybar-signin&pspid=1197228339&done=https%3A%2F%2Fwww.yahoo.com%2F&intl=us&specId=usernameregsimplified&prompt=login",
+      "time_usec" : 1742056203974248,
+      "visit_count" : 1,
+      "title" : "Yahoo"
+    },
+    {
+      "url" : "https://login.yahoo.com/forgot?display=narrow&intl=us&lang=en-US&src=homepage&specId=usernameregsimplified&activity=ybar-signin&pspid=1197228339&done=https%3A%2F%2Fwww.yahoo.com%2F",
+      "time_usec" : 1742056208542671,
+      "visit_count" : 1,
+      "destination_url" : "https://login.yahoo.com/account/challenge/username?display=narrow&intl=us&lang=en-US&src=homepage&specId=usernameregsimplified&activity=ybar-signin&pspid=1197228339&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&sessionIndex=QQ--",
+      "destination_time_usec" : 1742056208542986
+    },
+    {
+      "url" : "https://login.yahoo.com/account/challenge/username?display=narrow&intl=us&lang=en-US&src=homepage&specId=usernameregsimplified&activity=ybar-signin&pspid=1197228339&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&sessionIndex=QQ--",
+      "time_usec" : 1742056208542986,
+      "visit_count" : 1,
+      "title" : "Yahoo",
+      "source_url" : "https://login.yahoo.com/forgot?display=narrow&intl=us&lang=en-US&src=homepage&specId=usernameregsimplified&activity=ybar-signin&pspid=1197228339&done=https%3A%2F%2Fwww.yahoo.com%2F",
+      "source_time_usec" : 1742056208542671
+    },
+    {
+      "url" : "https://login.yahoo.com/account/challenge/recaptcha?display=narrow&intl=us&lang=en-US&src=homepage&specId=usernameregsimplified&activity=ybar-signin&pspid=1197228339&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&sessionIndex=QQ--&acrumb=PW7hwASE",
+      "time_usec" : 1742056223764779,
+      "visit_count" : 1,
+      "title" : "Yahoo"
+    },
+    {
+      "url" : "https://login.yahoo.com/account/challenge/phone-verify?display=narrow&intl=us&lang=en-US&src=homepage&specId=usernameregsimplified&activity=ybar-signin&pspid=1197228339&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&acrumb=PW7hwASE&sessionIndex=QQ--",
+      "time_usec" : 1742056246525809,
+      "visit_count" : 1,
+      "title" : "Yahoo"
+    },
+    {
+      "url" : "https://login.yahoo.com/account/challenge/fail?display=narrow&intl=us&lang=en-US&src=homepage&specId=usernameregsimplified&activity=ybar-signin&pspid=1197228339&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&acrumb=PW7hwASE&eid=3510",
+      "time_usec" : 1742056253813816,
+      "visit_count" : 1,
+      "title" : "Yahoo"
+    },
+    {
+      "url" : "https://io.help.yahoo.com/contact/index?page=contact&y=PROD_ACCT&locale=en_US&crumb=EpN9FVThmfsT122Wln%2F4w",
+      "time_usec" : 1742056259583827,
+      "visit_count" : 1,
+      "destination_url" : "https://io.help.yahoo.com/contact/index?page=home&locale=en_US&y=PROD_ACCT",
+      "destination_time_usec" : 1742056259584062
+    },
+    {
+      "url" : "https://edit.yahoo.com/forgotroot/?.lang=en-US",
+      "time_usec" : 1742056266560103,
+      "visit_count" : 1,
+      "destination_url" : "https://login.yahoo.com/account/challenge/username?.lang=en-US&authMechanism=secondary&done=https%3A%2F%2Fwww.yahoo.com%2F&sessionIndex=QQ--",
+      "destination_time_usec" : 1742056266560197
+    },
+    {
+      "url" : "https://login.yahoo.com/account/challenge/username?.lang=en-US&authMechanism=secondary&done=https%3A%2F%2Fwww.yahoo.com%2F&sessionIndex=QQ--",
+      "time_usec" : 1742056266560197,
+      "visit_count" : 1,
+      "title" : "Yahoo",
+      "source_url" : "https://edit.yahoo.com/forgotroot/?.lang=en-US",
+      "source_time_usec" : 1742056266560103
+    },
+    {
+      "url" : "https://login.yahoo.com/account/challenge/recaptcha?.lang=en-US&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&sessionIndex=QQ--&acrumb=PW7hwASE",
+      "time_usec" : 1742056276377163,
+      "visit_count" : 1
+    },
+    {
+      "url" : "https://login.yahoo.com/account/challenge/email-verify?.lang=en-US&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&acrumb=PW7hwASE&sessionIndex=QQ--",
+      "time_usec" : 1742057353628453,
+      "visit_count" : 2,
+      "destination_url" : "https://login.yahoo.com/account/challenge/fail?.lang=en-US&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&acrumb=PW7hwASE&sessionIndex=QQ--",
+      "destination_time_usec" : 1742057353638594
+    },
+    {
+      "url" : "https://login.yahoo.com/account/challenge/fail?.lang=en-US&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&acrumb=PW7hwASE&sessionIndex=QQ--",
+      "time_usec" : 1742057353638594,
+      "visit_count" : 1,
+      "title" : "Yahoo",
+      "source_url" : "https://login.yahoo.com/account/challenge/email-verify?.lang=en-US&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&acrumb=PW7hwASE&sessionIndex=QQ--",
+      "source_time_usec" : 1742057353628453
+    },
+    {
+      "url" : "https://login.yahoo.com/account/access?.lang=en-US&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&chllngnm=fail",
+      "time_usec" : 1742057816337549,
+      "visit_count" : 1,
+      "destination_url" : "https://login.yahoo.com/account/challenge/username?.lang=en-US&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&chllngnm=fail&sessionIndex=QQ--",
+      "destination_time_usec" : 1742057816338304
+    },
+    {
+      "url" : "https://login.yahoo.com/account/challenge/username?.lang=en-US&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&chllngnm=fail&sessionIndex=QQ--",
+      "time_usec" : 1742057816338304,
+      "visit_count" : 1,
+      "title" : "Yahoo",
+      "source_url" : "https://login.yahoo.com/account/access?.lang=en-US&done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&chllngnm=fail",
+      "source_time_usec" : 1742057816337549
+    },
+    {
+      "url" : "https://io.help.yahoo.com/contact/index?page=contact&y=PROD_ACCT&locale=en_US&crumb=yEi4zkZY1e2vzMTx8SnOxg",
+      "time_usec" : 1742057871055621,
+      "visit_count" : 1,
+      "destination_url" : "https://io.help.yahoo.com/contact/index?page=home&locale=en_US&y=PROD_ACCT",
+      "destination_time_usec" : 1742057871056692
+    },
+    {
+      "url" : "https://io.help.yahoo.com/contact/index?page=home&locale=en_US&y=PROD_ACCT",
+      "time_usec" : 1742057871056692,
+      "visit_count" : 2,
+      "title" : "Yahoo! Help - Choose Property",
+      "source_url" : "https://io.help.yahoo.com/contact/index?page=contact&y=PROD_ACCT&locale=en_US&crumb=yEi4zkZY1e2vzMTx8SnOxg",
+      "source_time_usec" : 1742057871055621,
+      "destination_url" : "https://help.yahoo.com/kb/account?sclb=1",
+      "destination_time_usec" : 1742057871620592
+    },
+    {
+      "url" : "https://help.yahoo.com/kb/account?sclb=1",
+      "time_usec" : 1742057871620592,
+      "visit_count" : 2,
+      "title" : "Help for your Yahoo Account",
+      "source_url" : "https://io.help.yahoo.com/contact/index?page=home&locale=en_US&y=PROD_ACCT",
+      "source_time_usec" : 1742057871056692
+    },
+    {
+      "url" : "https://www.google.com/search?q=does+google+photos+considered+shared+photos+&client=safari&sca_esv=b4f1a4e5dd378925&hl=en-us&ei=R-_VZ5uEMJq1wN4Px4HAuAc&oq=does+google+photos+considered+shared+photos+&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo&sclient=mobile-gws-wiz-serp&sei=c1XWZ7_DOOvtptQPn8aTiAQ#sbfbu=1&pi=does%20google%20photos%20considered%20shared%20photos",
+      "time_usec" : 1742057900352862,
+      "visit_count" : 3,
+      "title" : "does google photos considered shared photos - Google Search"
+    },
+    {
+      "url" : "https://www.google.com/search?q=does+google+photos+considered+shared+photos+&client=safari&sca_esv=b4f1a4e5dd378925&hl=en-us&ei=R-_VZ5uEMJq1wN4Px4HAuAc&oq=does+google+photos+considered+shared+photos+&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo&sclient=mobile-gws-wiz-serp&sei=c1XWZ7_DOOvtptQPn8aTiAQ#sbfbu=0&pi=does%20google%20photos%20considered%20shared%20photos",
+      "time_usec" : 1742057900434618,
+      "visit_count" : 1,
+      "title" : "does google photos considered shared photos - Google Search"
+    },
+    {
+      "url" : "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26client%3Dsafari%26sca_esv%3Db4f1a4e5dd378925%26hl%3Den-us%26ei%3DR-_VZ5uEMJq1wN4Px4HAuAc%26oq%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26gs_lp%3DEhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo%26sclient%3Dmobile-gws-wiz-serp%26sei%3Dc1XWZ7_DOOvtptQPn8aTiAQ%26noiga%3D1%26ptid%3D19031260%26ptt%3D8%26fpts%3D1742099828193&ec=futura_srp_og_si_4885284_p",
+      "time_usec" : 1742057912475972,
+      "visit_count" : 1,
+      "destination_url" : "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26client%3Dsafari%26sca_esv%3Db4f1a4e5dd378925%26hl%3Den-us%26ei%3DR-_VZ5uEMJq1wN4Px4HAuAc%26oq%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26gs_lp%3DEhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo%26sclient%3Dmobile-gws-wiz-serp%26sei%3Dc1XWZ7_DOOvtptQPn8aTiAQ%26noiga%3D1%26ptid%3D19031260%26ptt%3D8%26fpts%3D1742099828193&ec=futura_srp_og_si_4885284_p&hl=en&ifkv=AXH0vVu20WGoThfMVSAHfio6nk9rPeNaDDWsWGYh2j304Q4Q53Q128ov_muIwbj-UbpWQmu5tE31oA&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-16429886%3A1742099841325465",
+      "destination_time_usec" : 1742057912476297
+    },
+    {
+      "url" : "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26client%3Dsafari%26sca_esv%3Db4f1a4e5dd378925%26hl%3Den-us%26ei%3DR-_VZ5uEMJq1wN4Px4HAuAc%26oq%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26gs_lp%3DEhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo%26sclient%3Dmobile-gws-wiz-serp%26sei%3Dc1XWZ7_DOOvtptQPn8aTiAQ%26noiga%3D1%26ptid%3D19031260%26ptt%3D8%26fpts%3D1742099828193&ec=futura_srp_og_si_4885284_p&hl=en&ifkv=AXH0vVu20WGoThfMVSAHfio6nk9rPeNaDDWsWGYh2j304Q4Q53Q128ov_muIwbj-UbpWQmu5tE31oA&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-16429886%3A1742099841325465",
+      "time_usec" : 1742057912882238,
+      "visit_count" : 2,
+      "title" : "Sign in - Google Accounts"
+    },
+    {
+      "url" : "https://accounts.google.com/v3/signin/challenge/pwd?TL=ADBLaQADduf785WGAdNNpKt78PFuNuF8Gw6SCerDXHDHxA8OGAmTW9rqzyIurN7e&checkConnection=youtube%3A310&checkedDomains=youtube&cid=1&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26client%3Dsafari%26sca_esv%3Db4f1a4e5dd378925%26hl%3Den-us%26ei%3DR-_VZ5uEMJq1wN4Px4HAuAc%26oq%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26gs_lp%3DEhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo%26sclient%3Dmobile-gws-wiz-serp%26sei%3Dc1XWZ7_DOOvtptQPn8aTiAQ%26noiga%3D1%26ptid%3D19031260%26ptt%3D8%26fpts%3D1742099828193&dsh=S-16429886%3A1742099841325465&ec=futura_srp_og_si_4885284_p&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=AXH0vVu20WGoThfMVSAHfio6nk9rPeNaDDWsWGYh2j304Q4Q53Q128ov_muIwbj-UbpWQmu5tE31oA&pstMsg=1",
+      "time_usec" : 1742057916967480,
+      "visit_count" : 1,
+      "title" : "Sign in - Google Accounts"
+    },
+    {
+      "url" : "https://accounts.google.com/CheckCookie?continue=https://www.google.com/search?q%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26client%3Dsafari%26sca_esv%3Db4f1a4e5dd378925%26hl%3Den-us%26ei%3DR-_VZ5uEMJq1wN4Px4HAuAc%26oq%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26gs_lp%3DEhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo%26sclient%3Dmobile-gws-wiz-serp%26sei%3Dc1XWZ7_DOOvtptQPn8aTiAQ%26noiga%3D1%26ptid%3D19031260%26ptt%3D8%26fpts%3D1742099828193&hl=en&checkedDomains=youtube&checkConnection=youtube:310&pstMsg=1&flowName=GlifWebSignIn&ifkv=AXH0vVu20WGoThfMVSAHfio6nk9rPeNaDDWsWGYh2j304Q4Q53Q128ov_muIwbj-UbpWQmu5tE31oA&chtml=LoginDoneHtml&gidl=EgIIAA",
+      "time_usec" : 1742057920559528,
+      "visit_count" : 1,
+      "title" : "Redirecting",
+      "destination_url" : "https://accounts.youtube.com/accounts/SetSID",
+      "destination_time_usec" : 1742057921921717
+    },
+    {
+      "url" : "https://accounts.youtube.com/accounts/SetSID",
+      "time_usec" : 1742057921921717,
+      "visit_count" : 1,
+      "source_url" : "https://accounts.google.com/CheckCookie?continue=https://www.google.com/search?q%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26client%3Dsafari%26sca_esv%3Db4f1a4e5dd378925%26hl%3Den-us%26ei%3DR-_VZ5uEMJq1wN4Px4HAuAc%26oq%3Ddoes%2Bgoogle%2Bphotos%2Bconsidered%2Bshared%2Bphotos%2B%26gs_lp%3DEhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo%26sclient%3Dmobile-gws-wiz-serp%26sei%3Dc1XWZ7_DOOvtptQPn8aTiAQ%26noiga%3D1%26ptid%3D19031260%26ptt%3D8%26fpts%3D1742099828193&hl=en&checkedDomains=youtube&checkConnection=youtube:310&pstMsg=1&flowName=GlifWebSignIn&ifkv=AXH0vVu20WGoThfMVSAHfio6nk9rPeNaDDWsWGYh2j304Q4Q53Q128ov_muIwbj-UbpWQmu5tE31oA&chtml=LoginDoneHtml&gidl=EgIIAA",
+      "source_time_usec" : 1742057920559528,
+      "destination_url" : "https://www.google.com/search?q=does+google+photos+considered+shared+photos+&client=safari&sca_esv=b4f1a4e5dd378925&hl=en-us&ei=R-_VZ5uEMJq1wN4Px4HAuAc&oq=does+google+photos+considered+shared+photos+&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo&sclient=mobile-gws-wiz-serp&sei=c1XWZ7_DOOvtptQPn8aTiAQ&noiga=1&ptid=19031260&ptt=8&fpts=1742099828193",
+      "destination_time_usec" : 1742057921921812
+    },
+    {
+      "url" : "https://www.google.com/search?q=does+google+photos+considered+shared+photos+&client=safari&sca_esv=b4f1a4e5dd378925&hl=en-us&ei=R-_VZ5uEMJq1wN4Px4HAuAc&oq=does+google+photos+considered+shared+photos+&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo&sclient=mobile-gws-wiz-serp&sei=c1XWZ7_DOOvtptQPn8aTiAQ&noiga=1&ptid=19031260&ptt=8&fpts=1742099828193",
+      "time_usec" : 1742057922754871,
+      "visit_count" : 3,
+      "title" : "does google photos considered shared photos - Google Search",
+      "latest_visit_was_http_get" : false
+    },
+    {
+      "url" : "https://www.google.com/search?q=does+google+photos+considered+shared+photos+&client=safari&sca_esv=b4f1a4e5dd378925&hl=en-us&ei=R-_VZ5uEMJq1wN4Px4HAuAc&oq=does+google+photos+considered+shared+photos+&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIixkb2VzIGdvb2dsZSBwaG90b3MgY29uc2lkZXJlZCBzaGFyZWQgcGhvdG9zIDIFECEYoAEyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigVI0W1Q_AxYwWhwCXgBkAEBmAGyAaABzieqAQUxNC4yObgBA8gBAPgBAfgBBZgCM6ACxCioAhLCAgoQABiwAxjWBBhHwgICECnCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgQQABgDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIIEAAYgAQYsQPCAgcQABiABBgNwgIIEAAYgAQYogTCAgUQIRirApgDBfEFXbVzimxEk1KIBgGQBgiSBwUyMi4yOaAHspACsgcFMTMuMjm4B5Mo&sclient=mobile-gws-wiz-serp&sei=c1XWZ7_DOOvtptQPn8aTiAQ&noiga=1&ptid=19031260&ptt=8&fpts=1742099828193&zx=1742057924188",
+      "time_usec" : 1742057924190898,
+      "visit_count" : 1,
+      "title" : "does google photos considered shared photos - Google Search",
+      "latest_visit_was_http_get" : false
+    },
+    {
+      "url" : "https://www.google.com/search/notifications?hl=en",
+      "time_usec" : 1742057924746464,
+      "visit_count" : 1,
+      "destination_url" : "https://www.google.com/search/notifications/?hl=en",
+      "destination_time_usec" : 1742057924746646
+    },
+    {
+      "url" : "https://www.google.com/search/notifications/?hl=en",
+      "time_usec" : 1742057925093871,
+      "visit_count" : 2,
+      "title" : "Notifications"
+    },
+    {
+      "url" : "https://myaccount.google.com/?hl=en&authuser=0&utm_source=OGB&utm_medium=act&gar=WzJd&sl=true",
+      "time_usec" : 1742057951981968,
+      "visit_count" : 1,
+      "destination_url" : "https://accounts.google.com/ServiceLogin?service=accountsettings&passive=1209600&osid=1&continue=https://myaccount.google.com/?hl%3Den%26authuser%3D0%26utm_source%3DOGB%26utm_medium%3Dact%26gar%3DWzJd%26sl%3Dtrue&followup=https://myaccount.google.com/?hl%3Den%26authuser%3D0%26utm_source%3DOGB%26utm_medium%3Dact%26gar%3DWzJd%26sl%3Dtrue&hl=en&authuser=0",
+      "destination_time_usec" : 1742057951982523
+    },
+    {
+      "url" : "https://accounts.google.com/ServiceLogin?service=accountsettings&passive=1209600&osid=1&continue=https://myaccount.google.com/?hl%3Den%26authuser%3D0%26utm_source%3DOGB%26utm_medium%3Dact%26gar%3DWzJd%26sl%3Dtrue&followup=https://myaccount.google.com/?hl%3Den%26authuser%3D0%26utm_source%3DOGB%26utm_medium%3Dact%26gar%3DWzJd%26sl%3Dtrue&hl=en&authuser=0",
+      "time_usec" : 1742057951982523,
+      "visit_count" : 1,
+      "source_url" : "https://myaccount.google.com/?hl=en&authuser=0&utm_source=OGB&utm_medium=act&gar=WzJd&sl=true",
+      "source_time_usec" : 1742057951981968
+    },
+    {
+      "url" : "https://accounts.google.com/ServiceLogin",
+      "time_usec" : 1742057952006553,
+      "visit_count" : 1,
+      "title" : "Redirecting",
+      "destination_url" : "https://myaccount.google.com/accounts/SetOSID",
+      "destination_time_usec" : 1742057952609350
+    },
+    {
+      "url" : "https://myaccount.google.com/accounts/SetOSID",
+      "time_usec" : 1742057952609350,
+      "visit_count" : 1,
+      "source_url" : "https://accounts.google.com/ServiceLogin",
+      "source_time_usec" : 1742057952006553,
+      "destination_url" : "https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act&gar=WzJd&pli=1",
+      "destination_time_usec" : 1742057952609469
+    },
+    {
+      "url" : "https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act&gar=WzJd&pli=1",
+      "time_usec" : 1742057953277164,
+      "visit_count" : 2,
+      "title" : "Google Account",
+      "latest_visit_was_http_get" : false
+    },
+    {
+      "url" : "https://myaccount.google.com/device-activity?gar=WzJd&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Fhl%3Den%26utm_source%3DOGB%26utm_medium%3Dact%26gar%3DWzJd%26pli%3D1&hl=en&utm_source=OGB&utm_medium=act",
+      "time_usec" : 1742057955210095,
+      "visit_count" : 1,
+      "title" : "Your devices",
+      "latest_visit_was_http_get" : false
+    },
+    {
+      "url" : "https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act&gar=WzJd&pli=1&authuser=0",
+      "time_usec" : 1742057959865608,
+      "visit_count" : 1,
+      "title" : "Google Account",
+      "latest_visit_was_http_get" : false
+    },
+    {
+      "url" : "https://myaccount.google.com/find-your-phone?hl=en&authuser=0",
+      "time_usec" : 1742057982127231,
+      "visit_count" : 1,
+      "destination_url" : "https://myaccount.google.com/find-your-phone?hl=en",
+      "destination_time_usec" : 1742057982127565
+    },
+    {
+      "url" : "https://myaccount.google.com/find-your-phone?hl=en",
+      "time_usec" : 1742057982611711,
+      "visit_count" : 2,
+      "title" : "Find your phone"
+    },
+    {
+      "url" : "https://myaccount.google.com/find-your-phone-guide?deviceid=IJjg1vWLnNKkogE&hl=en&cs=18",
+      "time_usec" : 1742057994212878,
+      "visit_count" : 1,
+      "title" : "Find your phone"
+    },
+    {
+      "url" : "https://myaccount.google.com/find-your-phone-guide?deviceid=IJjg1vWLnNKkogE&hl=en&cs=12",
+      "time_usec" : 1742057995650290,
+      "visit_count" : 1,
+      "title" : "Find your phone"
+    },
+    {
+      "url" : "https://myaccount.google.com/find-your-phone-guide?deviceid=IJjg1vWLnNKkogE&hl=en&cs=15",
+      "time_usec" : 1742057998075966,
+      "visit_count" : 1,
+      "title" : "Find your phone"
+    },
+    {
+      "url" : "https://myaccount.google.com/find-your-phone-guide?deviceid=IJjg1vWLnNKkogE&hl=en&cs=13",
+      "time_usec" : 1742057999631873,
+      "visit_count" : 1,
+      "title" : "Find your phone"
+    },
+    {
+      "url" : "https://myaccount.google.com/find-your-phone-guide?deviceid=IJjg1vWLnNKkogE&hl=en",
+      "time_usec" : 1742058000891412,
+      "visit_count" : 2,
+      "title" : "Find your phone"
+    },
+    {
+      "url" : "https://myaccount.google.com/security?hl=en",
+      "time_usec" : 1742058002131135,
+      "visit_count" : 1,
+      "title" : "Security"
+    },
+    {
+      "url" : "https://myaccount.google.com/notifications?origin=3&hl=en",
+      "time_usec" : 1742058008415218,
+      "visit_count" : 1,
+      "title" : "Recent security activity"
+    },
+    {
+      "url" : "https://myaccount.google.com/security?origin=3&hl=en",
+      "time_usec" : 1742058015733607,
+      "visit_count" : 1,
+      "title" : "Security"
+    },
+    {
+      "url" : "https://myaccount.google.com/device-activity?continue=https%3A%2F%2Fmyaccount.google.com%2Fsecurity%3Forigin%3D3%26hl%3Den&hl=en",
+      "time_usec" : 1742058023417083,
+      "visit_count" : 1,
+      "title" : "Your devices"
+    },
+    {
+      "url" : "https://myaccount.google.com/device-activity/id/IJjg1vWLnNKkogE?continue=https%3A%2F%2Fmyaccount.google.com%2Fdevice-activity%3Fcontinue%3Dhttps%253A%252F%252Fmyaccount.google.com%252Fsecurity%253Forigin%253D3%2526hl%253Den%26hl%3Den&hl%3Den&hl=en",
+      "time_usec" : 1742058035399734,
+      "visit_count" : 3,
+      "title" : "Your devices"
+    }
+  ]
+}
